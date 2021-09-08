@@ -8,15 +8,21 @@
 **Правила дедлайнов:** 
 После выдачи домашней работы у вас есть 2 недели на ее выполнение и сдачу, по окончании этого срока вы можете сдать работу еще в течение 2 недель со штрафом в 1 балл за каждую неделю просрочки. Через месяц после выдачи домашнего задания, работы не принимаются.
 
+
+| ДЗ  | Мягкий дедлайн | Жесткий дедлайн | Ссылка на форму для сдачи
+| ------------- | ------------- | ----------- | ---------------- | 
+| 1) ДЗ про классический МЛ   |  26.09.21 23:59  | 10.10.21 23:59  | https://forms.gle/igoRrML4g9uGt6p1A |
+
+
 [Ваши оценки (ведомость)](https://docs.google.com/spreadsheets/d/1EcETCgAVFi4konmjudonCb-e9uVrKvqNygzjW8CGMdE/edit#gid=0)
 
 **Преподаватели:**
 - Мария Пономарева ponomarevamawa@gmail.com, @MashPo
-- Дарья Самсонова daria2814@gmail.com, @SamsonovaDaria
+- Дарья Самсонова daria1208@yandex.ru, @SamsonovaDaria
 
 **Ассистенты:**
-- Александр Баранов @Fr1lance
-- Татьяна Юдина @tayudina
+- Александр Баранов alexanderbaranof@gmail.com, @Fr1lance 
+- Татьяна Юдина yudina.tatiana22@gmail.com, @tayudina
 
 **Рекомендуемая основная литература** 
 - Daniel Jurafsky & James H. Martin. Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition. Third Edition. https://web.stanford.edu/~jurafsky/slp3/
