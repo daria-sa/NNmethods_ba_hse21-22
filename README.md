@@ -13,7 +13,11 @@
 | -------------| -------------| -------------| ------------- | ------------- | ----------- | ---------------- | 
 |6,10/09/2021|классический ML, sklearn | - | ДЗ 1 про классический МЛ   |  26.09.21 23:59  | 10.10.21 23:59  | [google forms](https://forms.gle/igoRrML4g9uGt6p1A) |
 |13,17/09/2021|MLP intro| [youtube](https://www.youtube.com/watch?v=lFh6kKYiaZw) | - | - | - | - |
+|23,24/09/2021|word2vec FastText| [youtube](https://youtu.be/InwNEwh6DYk) | - | - | - | - |
+|27,01/09,10/2021|Torch tensors| - | - | - | - | - |
 
+
+https://youtu.be/InwNEwh6DYk
 
 [Ваши оценки (ведомость)](https://docs.google.com/spreadsheets/d/1EcETCgAVFi4konmjudonCb-e9uVrKvqNygzjW8CGMdE/edit#gid=0)
 
