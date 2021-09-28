@@ -15,9 +15,13 @@
 |13,17/09/2021|MLP intro| [youtube](https://www.youtube.com/watch?v=lFh6kKYiaZw) | - | - | - | - |
 |23,24/09/2021|word2vec FastText| [youtube](https://youtu.be/InwNEwh6DYk) | - | - | - | - |
 |27,01/09,10/2021|Torch tensors| - | - | - | - | - |
+|27/09/2021|консультация| [youtube](https://www.youtube.com/watch?v=qKJljmY90Yk) | | | | |
 
 
-https://youtu.be/InwNEwh6DYk
+
+
+
+
 
 [Ваши оценки (ведомость)](https://docs.google.com/spreadsheets/d/1EcETCgAVFi4konmjudonCb-e9uVrKvqNygzjW8CGMdE/edit#gid=0)
 
