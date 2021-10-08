@@ -16,6 +16,7 @@
 | 3|23,24/09/2021|word2vec FastText| [youtube](https://youtu.be/InwNEwh6DYk) | - | - | - | - |
 | |27/09/2021|консультация| [youtube](https://www.youtube.com/watch?v=qKJljmY90Yk) | | | | |
 | 4|27,01/09,10/2021|Torch tensors| [youtube](https://youtu.be/HQyx8vK1S4A) | - | - | - | - |
+| 5|4,8/10/2021|Scikit-learn how to| [youtube](https://youtu.be/uZlYMKHMdMA) | - | - | - | - |
 
 
 
