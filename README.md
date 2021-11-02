@@ -18,10 +18,7 @@
 | 4|27,01/09,10/2021|Torch tensors| [youtube](https://youtu.be/HQyx8vK1S4A) | - | - | - | - |
 | 5|4,8/10/2021|Scikit-learn how to| [youtube](https://youtu.be/uZlYMKHMdMA) | - | - | - | - |
 | 6|11,15/10/2021|Torch Dataset, Dataloader| [youtube](https://youtu.be/s9WPMP8CXnI) | - | - | - | - |
-
-
-
-
+| 7|28,29/10/2021|Torch training linear model| [youtube](https://youtu.be/52Ky4PP1kmg) | - | - | - | - |
 
 
 
