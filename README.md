@@ -20,6 +20,7 @@
 | 6|11,15/10/2021|Torch Dataset, Dataloader| [youtube](https://youtu.be/s9WPMP8CXnI) | - | - | - | - |
 | 7|28,29/10/2021|Torch training linear model| [youtube](https://youtu.be/52Ky4PP1kmg) | - | - | - | - |
 | 8|2/11/2021|CNN theory| [youtube](https://youtu.be/pyxq1HxdB1M) | - | - | - | - |
+| 9|10,12/11/2021|CNN, CharCNN  torch| [youtube](https://youtu.be/GCV7CBg5kIY) | ДЗ 2 построение своей сети в torch, CNN + FFN | 26.11.21 23:59 | 10.12.21 23:59| [google forms](https://docs.google.com/forms/d/e/1FAIpQLScNQfeHd9TF7kO73126q-zhwQlPi4-snNxSyGO0NxKMitxgDQ/viewform?usp=sf_link) |
 
 
 
