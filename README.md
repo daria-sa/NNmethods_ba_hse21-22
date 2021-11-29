@@ -23,7 +23,7 @@
 | 9|10,12/11/2021|CNN, CharCNN  torch| [youtube](https://youtu.be/GCV7CBg5kIY) | ДЗ 2 построение своей сети в torch, CNN + FFN | 26.11.21 23:59 | 10.12.21 23:59| [google forms](https://docs.google.com/forms/d/e/1FAIpQLScNQfeHd9TF7kO73126q-zhwQlPi4-snNxSyGO0NxKMitxgDQ/viewform?usp=sf_link) |
 | 10|15,17/11/2021|RNN theory (part 1)|   | тест 1 (FFN и CNN) | 1.12.21 23:59 | 15.12.21 23:59 | [google forms](https://docs.google.com/forms/d/1pVhBqFRZOWO9YMbdZZWhEOwuTzRREEThNmq8uzj3JL0/edit?usp=sharing) |
 | 11|17,19/11/2021|RNN theory (part 2)| [youtube](https://youtu.be/xdxLN17eVIU) | ДЗ 3 работа со статьями + построение сети с RNN слоями  |15.12.21 | 29.11.21 | [google forms](https://docs.google.com/forms/d/107DomtonrXme0RkKcgIQmY-dXMmWb-JEcwsdIED0ago/edit) |
-
+| 12|22,26/11/2021|RNN theory (part 3)| [youtube](https://youtu.be/seLYJ7y_4yo) | - | - | - | - |
 
 
 
