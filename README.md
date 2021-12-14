@@ -24,7 +24,7 @@
 | 10|15,17/11/2021|RNN theory (part 1)|   | тест 1 (FFN и CNN) | 1.12.21 23:59 | 15.12.21 23:59 | [google forms](https://docs.google.com/forms/d/1pVhBqFRZOWO9YMbdZZWhEOwuTzRREEThNmq8uzj3JL0/edit?usp=sharing) |
 | 11|17,19/11/2021|RNN theory (part 2)| [youtube](https://youtu.be/xdxLN17eVIU) | ДЗ 3 работа со статьями + построение сети с RNN слоями  |15.12.21 | 29.12.21 | [google forms](https://docs.google.com/forms/d/107DomtonrXme0RkKcgIQmY-dXMmWb-JEcwsdIED0ago/edit) |
 | 12|22,26/11/2021|RNN theory (part 3)| [youtube](https://youtu.be/seLYJ7y_4yo) | - | - | - | - |
-| 13|1,3/12/2021|LM using RNN| youtube | - | - | - | - |
+| 13|1,3/12/2021|LM using RNN| [youtube](https://youtu.be/zyo9xf3DXhw) | - | - | - | - |
 | 14|14,16/12/2021|seq2seq + attention theory| youtube | - | - | - | - |
 | 15|14,16/12/2021|seq2seq + attention torch| youtube | - | - | - | - |
 
