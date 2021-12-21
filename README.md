@@ -26,7 +26,7 @@
 | 12|22,26/11/2021|RNN theory (part 3)| [youtube](https://youtu.be/seLYJ7y_4yo) | - | - | - | - |
 | 13|1,3/12/2021|LM using RNN| [youtube](https://youtu.be/zyo9xf3DXhw) | - | - | - | - |
 | 14|14,16/12/2021|seq2seq + attention theory| youtube | - | - | - | - |
-| 15|14,16/12/2021|seq2seq + attention torch| youtube | - | - | - | - |
+| 15|14,16/12/2021|seq2seq + attention torch| [youtube](https://youtu.be/6OxmzcUA9RI) | - | - | - | - |
 
 
 
