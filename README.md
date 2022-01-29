@@ -27,7 +27,7 @@
 | 13|1,3/12/2021|LM using RNN| [youtube](https://youtu.be/zyo9xf3DXhw) | - | - | - | - |
 | 14|14,16/12/2021|seq2seq + attention theory| [youtube](https://youtu.be/ZuMniHMWe0Q) | - | - | - | - |
 | 15|14,16/12/2021|seq2seq + attention torch| [youtube](https://youtu.be/6OxmzcUA9RI) | - | - | - | - |
-| 16,17|10,11/1/2022|подготовка финальных проектов| - | - | - | - | - |
+| 16,17|10,11/1/2022|подготовка финальных проектов| - | первая презентация проекта | 29.01.2022 | - | [google forms](https://docs.google.com/forms/d/1LUyoapXuKRXJ2U4oT5X5vCCq6MsFEQ1ktNhtgSPS1j8/edit?usp=sharing) |
 | 18|17/1/2022|приглашенная лекция. Project management| [youtube](https://youtu.be/Q4Tg5PiBUkU) | - | - | - | - |
 
 
