@@ -30,7 +30,7 @@
 | 16,17|10,11/1/2022|подготовка финальных проектов| - | первая презентация проекта | 29.01.2022 | - | [google forms](https://docs.google.com/forms/d/1LUyoapXuKRXJ2U4oT5X5vCCq6MsFEQ1ktNhtgSPS1j8/edit?usp=sharing) |
 | 18|17/1/2022|приглашенная лекция. Project management| [youtube](https://youtu.be/Q4Tg5PiBUkU) | - | - | - | - |
 | 19|31/1/2022 1/2/2022|Transformer| [youtube](https://youtu.be/G0VSqmlqwS4) | - | - | - | - |
-| 20|8,9/2/2022|Bert theory| [youtube](https://youtu.be/NtqPoqAndfI) | - | - | - | - |
+| 20|8,9/2/2022|Bert theory| [youtube](https://youtu.be/NtqPoqAndfI) | тест 2 (трансформер, GPT, BERT) | 23.02.21 23:59| 09.03.21 23:59| [google forms](https://forms.gle/x5kZgsJ4pScPYyzv5)|
 
 
 
