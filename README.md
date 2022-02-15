@@ -32,6 +32,7 @@
 | 19|31/1/2022 1/2/2022|Transformer| [youtube](https://youtu.be/G0VSqmlqwS4) | - | - | - | - |
 | 20|8,9/2/2022|Bert theory| [youtube](https://youtu.be/NtqPoqAndfI) | тест 2 (трансформер, GPT, BERT) | 23.02.22 23:59| 09.03.22 23:59| [google forms](https://forms.gle/x5kZgsJ4pScPYyzv5)|
 | 21|10/2/2022|Bert part 2| [youtube](https://youtu.be/2LVd3j-Td7o) | - | - | - | - |
+| 22|14,15/2/2022|промежуточная защита финальных проектов| - | - | - | - | - |
 
 
 
