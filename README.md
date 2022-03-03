@@ -31,9 +31,11 @@
 | 18|17/1/2022|приглашенная лекция. Project management| [youtube](https://youtu.be/Q4Tg5PiBUkU) | - | - | - | - |
 | 19|31/1/2022 1/2/2022|Transformer| [youtube](https://youtu.be/G0VSqmlqwS4) | - | - | - | - |
 | 20|8,9/2/2022|Bert theory| [youtube](https://youtu.be/NtqPoqAndfI) | тест 2 (трансформер, GPT, BERT) | 23.02.22 23:59| 09.03.22 23:59| [google forms](https://forms.gle/x5kZgsJ4pScPYyzv5)|
-| 21|10/2/2022|Bert part 2| [youtube](https://youtu.be/2LVd3j-Td7o) | - | - | - | - |
+| 21|10/2/2022|Bert part 2. How to preprocess| [youtube](https://youtu.be/2LVd3j-Td7o) | - | - | - | - |
 | 22|14,15/2/2022|промежуточная защита финальных проектов| - | - | - | - | - |
-
+| 23|24/2/2022|Bert part 3. How to apply| [youtube](https://youtu.be/tKvqOwzZY7A) | - | - | - | - |
+| 24|3/3/2022|Bert part 4. How to train| [youtube](https://youtu.be/HiC2AuSlXqo) | ДЗ 4  | 18.03.22 | - | - |
+| 25|3/3/2022|приглашенная лекция. NLP for Mental health| [youtube](https://youtu.be/3CMLYxqETHo) | - | - | - | - |
 
 
 
