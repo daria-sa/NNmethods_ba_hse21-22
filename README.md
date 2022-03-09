@@ -34,7 +34,7 @@
 | 21|10/2/2022|Bert part 2. How to preprocess| [youtube](https://youtu.be/2LVd3j-Td7o) | - | - | - | - |
 | 22|14,15/2/2022|промежуточная защита финальных проектов| - | - | - | - | - |
 | 23|24/2/2022|Bert part 3. How to apply| [youtube](https://youtu.be/tKvqOwzZY7A) | - | - | - | - |
-| 24|3/3/2022|Bert part 4. How to train| [youtube](https://youtu.be/HiC2AuSlXqo) | ДЗ 4. Применение бертоподобных моделей к задаче классификации  | 20.03.22 | - | - |
+| 24|3/3/2022|Bert part 4. How to train| [youtube](https://youtu.be/HiC2AuSlXqo) | ДЗ 4. Применение бертоподобных моделей к задаче классификации  | 20.03.22 | - | [google forms](https://forms.gle/VUtTcbMohkLuCVd99) |
 | 25|3/3/2022|приглашенная лекция. NLP for Mental health| [youtube](https://youtu.be/3CMLYxqETHo) | - | - | - | - |
 
 
